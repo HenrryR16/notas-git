@@ -2,6 +2,5 @@ Hola, este es un repositorio donde estoy colocando mis apuntes para practicar
 
 # Entendiendo la plataforma 
 
-Yo aqui voy a subir mi proyecto de "Amigo Secreto" solo para ejemplo
-(Es solo para entender la plataforma github)
-Gracias :D 
+Creo que practicare todo aqui en el readme y ya esta no?
+Ya para entenderle bien mas o menos 
